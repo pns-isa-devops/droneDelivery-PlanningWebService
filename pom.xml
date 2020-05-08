@@ -33,7 +33,6 @@
     <versions.shrinkwrap>2.2.6</versions.shrinkwrap>
   </properties>
 
-
   <dependencies>
     <dependency>
       <groupId>fr.unice.polytech.isa.dd</groupId>
